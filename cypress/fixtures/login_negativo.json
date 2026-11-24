@@ -1,0 +1,4 @@
+[
+  { "caso": "password distinta", "username": "REAL", "password": "x_bad", "expected": "Wrong password." },
+  { "caso": "usuario inexistente 2", "username": "otro_no_existe_zz8", "password": "123", "expected": "User does not exist." }
+]
